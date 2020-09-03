@@ -1,4 +1,4 @@
-# Project 1 - *Simple Todo*
+*Simple Todo App*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -33,7 +33,8 @@ GIF created with [Recordit](https://recordit.co).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Making the app persistent was a very hard part of creating the app. It took me rewatching the tutorials sevveral times to understand how the function calls worked. 
+
+The SimpleToDo app was a great way for me to start my Android career. Making the app persistent was a very hard part of creating the app. It took me rewatching the tutorials sevveral times to understand how the function calls worked. 
 The button OnClickListeners were also very tricky to understand because it took me a while to familiarize myself with the inbuilt functions of Android Studio. 
 Creating the video was also very challenging as for some reason, LICEcap was not recording my screen. I had to use Recordit to get the job done. It also took me several takes to get a proper gif recording of the Todo app.
 
